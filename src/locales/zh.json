@@ -1,0 +1,15 @@
+{
+  "choosed.attachment":"请选择/新增一列附件类型字段",
+  "choose.table":"请选择数据表",
+  "choose":"请选择",
+  "with.field":"跳过已有附件的单元格",
+  "start.btn":"批量转换",
+  "err.url":"请选择附件url的来源",
+  "err.table":"请先选择table",
+  "success":"转换成功",
+  "some.err": "{{num}}个URL转换失败",
+  "choose.url":"要转换的 URL 字段",
+  "to.attachment":"转换到的附件字段",
+  "add.field":"新增一列附件类型字段",
+  "trans.num":"已转换 {{num}} 个URL"
+}

@@ -1,0 +1,15 @@
+{
+  "choosed.attachment": "Please choose/add a column for attachment type",
+  "choose.table": "Please choose a data table",
+  "choose": "Please choose",
+  "with.field": "Skip cells with existing attachments",
+  "start.btn": "Batch conversion",
+  "err.url": "Please choose a source for attachment URLs",
+  "err.table": "Please choose a table first",
+  "success": "Conversion successful",
+  "some.err": "{{num}} URL conversions failed",
+  "choose.url": "URL field to convert",
+  "to.attachment": "Attachment field to convert to",
+  "add.field": "Add a column for attachment type",
+  "trans.num": "{{num}} URLs converted"
+}
