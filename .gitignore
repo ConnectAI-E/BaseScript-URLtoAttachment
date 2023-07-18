@@ -3,3 +3,4 @@
 .upm
 .config
 .DS_Store
+node_modules
