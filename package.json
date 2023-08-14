@@ -1,5 +1,5 @@
 {
-  "name": "react-typescript",
+  "name": "React Template",
   "version": "1.0.0",
   "type": "module",
   "description": "React TypeScript on Replit, using Vite bundler",
@@ -11,12 +11,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "@base-open/web-api": "https://lf3-static.bytednsdoc.com/obj/eden-cn/nuptlgbpx/@base-open/web-api/base-open-web-api-0.1.6-alpha.7.tgz",
-    "@douyinfe/semi-ui": "^2.37.0",
-    "i18next": "^23.2.3",
-    "react-i18next": "^13.0.1"
-  },
   "devDependencies": {
     "@types/react": "^18.0.15",
     "@types/react-dom": "^18.0.6",
@@ -25,5 +19,15 @@
     "react-dom": "^18.2.0",
     "typescript": "^4.7.4",
     "vite": "^3.0.4"
+  },
+  "dependencies": {
+    "@base-open/web-api": "https://lf3-static.bytednsdoc.com/obj/eden-cn/eqgeh7upeubqnulog/base-open-web-api-0.2.0-beta.4.tgz",
+    "antd": "^5.7.3",
+    "axios": "^1.4.0",
+    "i18next": "^23.4.2",
+    "normalize.css": "^8.0.1",
+    "react-i18next": "^13.0.3",
+    "react-markdown": "^8.0.7",
+    "styled-components": "^6.0.5"
   }
 }
