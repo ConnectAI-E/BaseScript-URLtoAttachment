@@ -2,7 +2,8 @@
 
 > 将多维表格中的 URL 转换为附件
 
-<img width="100%" alt="image" src="https://github.com/ConnectAI-E/BaseScript-URLtoAttachment/assets/50035229/66ff097b-889a-41f7-ac7b-a79dfbebd6a5">
+![image](https://github.com/ConnectAI-E/BaseScript-URLtoAttachment/assets/110169811/765568c6-843e-4ba1-87f1-4278fa9f6bdb)
+
 
 ### Getting Started
 1️⃣ clone deme
